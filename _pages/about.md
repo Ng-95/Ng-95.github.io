@@ -42,7 +42,7 @@ Xin He, Enhuan Dong, Jiahai Yang, Shize Zhang, Zhiliang Wang, Zejie Wang, Ye Yan
 
 - **MIMIC: SmartNIC-aided Flow Backpressure for CPU Overloading Protection in Multi-Tenant Clouds.** <br/>
 **Enge Song**, Nianbing Yu, Tian Pan, Qiang Fu, Liang Xu, Xionglie Wei, Yisong Qiao, Jianyuan Lu, Yijian Dong, Mingxu Xie, Jun He, Jinkui Mao, Zhengjie Luo, Chenhao Jia, Jiao Zhang, Tao Huang, Biao Lyu, Shunmin Zhu. <br/>
-**ICNP'22**
+**ICNP'22** ([paper](/files/MIMIC_ICNP22.pdf))
 
 - **WebQMon.ai: Gateway-Based Web QoE Assessment Using Lightweight Neural Networks.** <br/>
 **Enge Song**, Tian Pan, Qiang Fu, Chenhao Jia, Jiao Zhang, Tao Huang, Yun-Jie Liu. <br/>
@@ -50,7 +50,7 @@ Xin He, Enhuan Dong, Jiahai Yang, Shize Zhang, Zhiliang Wang, Zejie Wang, Ye Yan
 
 - **Sailfish: accelerating cloud-scale multi-tenant multi-service gateways with programmable switches.** <br/>
 Tian Pan, Nianbing Yu, Chenhao Jia, Jianwen Pi, Liang Xu, Yisong Qiao, Zhiguo Li, Kun Liu, Jie Lu, Jianyuan Lu, **Enge Song**, Jiao Zhang, Tao Huang, Shunmin Zhu. <br/>
-**SIGCOMM'21**
+**SIGCOMM'21** ([paper](/files/Sailfish_SIGCOMM21.pdf))
 
 - **INT-label: Lightweight In-band Network-Wide Telemetry via Interval-based Distributed Labelling.** <br/>
 **Enge Song**, Tian Pan, Chenhao Jia, Wendi Cao, Jiao Zhang, Tao Huang, Yunjie Liu. <br/>
@@ -70,7 +70,7 @@ Tian Pan, Xiaoyu Peng, Qianqian Shi, Zizheng Bian, Xingchen Lin, **Enge Song**, 
 
 - **Rapid Detection and Localization of Gray Failures in Data Centers via In-band Network Telemetry.** <br/>
 Chenhao Jia, Tian Pan, Zizheng Bian, Xingchen Lin, **Enge Song**, Cheng Xu, Tao Huang, Yunjie Liu. <br/>
-**NOMS'20**
+**NOMS'20** ([paper](/files/INT-detect_NOMS20.pdf))
 
 - **INT-path: Towards Optimal Path Planning for In-band Network-Wide Telemetry.** <br/>
 Tian Pan, **Enge Song**, Zizheng Bian, Xingchen Lin, Xiaoyu Peng, Jiao Zhang, Tao Huang, Bin Liu, Yunjie Liu. <br/>
