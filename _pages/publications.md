@@ -34,15 +34,15 @@ Yan Zhang, Tian Pan, Yan Zheng, **Enge Song**, Jiang Liu, Tao Huang, Yunjie Liu.
 
 - **WebQMon.ai: Gateway-Based Web QoE Assessment Using Lightweight Neural Networks.** <br/>
 **Enge Song**, Tian Pan, Qiang Fu, Chenhao Jia, Jiao Zhang, Tao Huang, Yun-Jie Liu. <br/>
-**ICSOC'22**
+**ICSOC'22** ([paper](/files/WebQMon_ICSOC22.pdf))
 
 - **Power-Aware Traffic Engineering for Data Center Networks via Deep Reinforcement Learning.** <br/>
 Minglan Gao, Tian Pan, **Enge Song**, Mengqi Yang, Tao Huang, Yunjie Liu. <br/>
-**GLOBECOM'22**
+**GLOBECOM'22** ([paper](/files/INT-filter_GC20.pdf))
 
 - **INT-label: Lightweight In-band Network-Wide Telemetry via Interval-based Distributed Labelling.** <br/>
 **Enge Song**, Tian Pan, Chenhao Jia, Wendi Cao, Jiao Zhang, Tao Huang, Yunjie Liu. <br/>
-**INFOCOM'21**
+**INFOCOM'21** ([paper](/files/INT-label_INFOCOM21.pdf))
 
 - **Sailfish: accelerating cloud-scale multi-tenant multi-service gateways with programmable switches.** <br/>
 Tian Pan, Nianbing Yu, Chenhao Jia, Jianwen Pi, Liang Xu, Yisong Qiao, Zhiguo Li, Kun Liu, Jie Lu, Jianyuan Lu, **Enge Song**, Jiao Zhang, Tao Huang, Shunmin Zhu. <br/>
@@ -87,7 +87,7 @@ Tian Pan, Xingchen Lin, **Enge Song**, Cheng Xu, Jiao Zhang, Hao Li, Jianhui Lv,
 
 - **Threshold-oblivious on-line web QoE assessment using neural network-based regression model.** <br/>
 **Enge Song**, Tian Pan, Qiang Fu, Rui Zhang, Chenhao Jia, Wendi Cao, Tao Huang. <br/>
-**IET Communications. 14(12): 2018-2026 (2020)**
+**IET Communications. 14(12): 2018-2026 (2020)** ([paper](/files/WebQMon_IETC.pdf))
 
 Paper In Topics
 ======
@@ -108,6 +108,7 @@ In-band Network Telemetry
 3. INT-probe: Lightweight In-band Network-Wide Telemetry with Stationary Probes.
 4. GreenTE.ai: Power-Aware Traffic Engineering via Deep Reinforcement Learning.
 5. INT-filter: Mitigating Data Collection Overhead for High-Resolution In-band Network Telemetry.
+6. Rapid Detection and Localization of Gray Failures in Data Centers via In-band Network Telemetry.
 
 Web Quality Assessment
 ------
