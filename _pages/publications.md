@@ -9,10 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 Conference Paper
 ======
 
@@ -93,11 +89,27 @@ Tian Pan, Xingchen Lin, **Enge Song**, Cheng Xu, Jiao Zhang, Hao Li, Jianhui Lv,
 **Enge Song**, Tian Pan, Qiang Fu, Rui Zhang, Chenhao Jia, Wendi Cao, Tao Huang. <br/>
 **IET Communications. 14(12): 2018-2026 (2020)**
 
-Cloud Network
+Paper In Topics
 ======
+
+Cloud Network
+------
+1. Poseidon: A Consolidated Virtual Network Controller that Manages Millions of Tenants via Config Tree.
+2. LuoShen: A Hyper-Converged Programmable Gateway for Multi-Tenant Multi-Service Edge Clouds.
+3. CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks.
+4. MIMIC: SmartNIC-aided Flow Backpressure for CPU Overloading Protection in Multi-Tenant Clouds.
+5. Sailfish: accelerating cloud-scale multi-tenant multi-service gateways with programmable switches.
+6. CloudSentry: Two-Stage Heavy Hitter Detection for Cloud-Scale Gateway Overload Protection.
 
 In-band Network Telemetry
-======
+------
+1. INT-Balance: In-Band Network-Wide Telemetry with Balanced Monitoring Path Planning.
+2. INT-label: Lightweight In-band Network-Wide Telemetry via Distributed Labeling.
+3. INT-probe: Lightweight In-band Network-Wide Telemetry with Stationary Probes.
+4. GreenTE.ai: Power-Aware Traffic Engineering via Deep Reinforcement Learning.
+5. INT-filter: Mitigating Data Collection Overhead for High-Resolution In-band Network Telemetry.
 
 Web Quality Assessment
-======
+------
+1. WebQMon.ai: Gateway-Based Web QoE Assessment Using Lightweight Neural Networks.
+2. Threshold-oblivious on-line web QoE assessment using neural network-based regression model.
