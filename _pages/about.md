@@ -46,7 +46,7 @@ Xin He, Enhuan Dong, Jiahai Yang, Shize Zhang, Zhiliang Wang, Zejie Wang, Ye Yan
 
 - **WebQMon.ai: Gateway-Based Web QoE Assessment Using Lightweight Neural Networks.** <br/>
 **Enge Song**, Tian Pan, Qiang Fu, Chenhao Jia, Jiao Zhang, Tao Huang, Yun-Jie Liu. <br/>
-**ICSOC'22**
+**ICSOC'22** ([paper](/files/WebQMon_ICSOC22.pdf))
 
 - **Sailfish: accelerating cloud-scale multi-tenant multi-service gateways with programmable switches.** <br/>
 Tian Pan, Nianbing Yu, Chenhao Jia, Jianwen Pi, Liang Xu, Yisong Qiao, Zhiguo Li, Kun Liu, Jie Lu, Jianyuan Lu, **Enge Song**, Jiao Zhang, Tao Huang, Shunmin Zhu. <br/>
@@ -54,7 +54,7 @@ Tian Pan, Nianbing Yu, Chenhao Jia, Jianwen Pi, Liang Xu, Yisong Qiao, Zhiguo Li
 
 - **INT-label: Lightweight In-band Network-Wide Telemetry via Interval-based Distributed Labelling.** <br/>
 **Enge Song**, Tian Pan, Chenhao Jia, Wendi Cao, Jiao Zhang, Tao Huang, Yunjie Liu. <br/>
-**INFOCOM'21** ([PDF](/files/paper1.pdf))
+**INFOCOM'21** ([paper](/files/INT-label_INFOCOM21.pdf))
 
 - **NB-Cache: Non-Blocking In-Network Caching for High-Performance Content Routers.** <br/>
 Tian Pan, Xingchen Lin, **Enge Song**, Cheng Xu, Jiao Zhang, Hao Li, Jianhui Lv, Tao Huang, Bin Liu, Beichuan Zhang. <br/>
