@@ -12,6 +12,14 @@ author_profile: true
 Conference Paper
 ======
 
+- **vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers.** <br/>
+Xin Yin, **Enge Song**, Ye Yang, Yi Wang, Bowen Yang, Jianyuan Lu, Xing Li, Biao Lyu, Rong Wen, Shibo He, Yuanchao Shu, Shunmin Zhu.<br/>
+**APNET'24**
+
+- **QuarkTable: Building Compact Forwarding Tables for Programmable Switches on Public Clouds.** <br/>
+Jianyuan Lu, Huaiyi Zhao, Yu Qi, Yehao Feng, Xinyu Guo, Shengru Li, **Enge Song**, Xionglie Wei, Biao Lyu, Rong Wen, Shunmin Zhu.<br/>
+**APNET'24**
+
 - **Poseidon: A Consolidated Virtual Network Controller that Manages Millions of Tenants via Config Tree.** <br/>
 Biao Lyu, **Enge Song**, Tian Pan, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Lei Gao, Chenxiao Wang, Han Xiao, Yong Pan, Xiuheng Chen, Yandong Duan, Weisheng Wang, Jinpeng Long, Yanfeng Wang, Kunpeng Zhou, Zhigang Zong, Xing Li, Guangwang Li, Pengyu Zhang, Peng Cheng, Jiming Chen, Shunmin Zhu.<br/>
 **NSDI'24** ([paper](/files/Poseidon_NSDI24.pdf)) 
@@ -100,6 +108,8 @@ Cloud Network
 4. MIMIC: SmartNIC-aided Flow Backpressure for CPU Overloading Protection in Multi-Tenant Clouds.
 5. Sailfish: accelerating cloud-scale multi-tenant multi-service gateways with programmable switches.
 6. CloudSentry: Two-Stage Heavy Hitter Detection for Cloud-Scale Gateway Overload Protection.
+7. vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers.
+8. QuarkTable: Building Compact Forwarding Tables for Programmable Switches on Public Clouds.
 
 In-band Network Telemetry
 ------
