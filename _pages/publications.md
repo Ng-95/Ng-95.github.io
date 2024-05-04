@@ -12,6 +12,10 @@ author_profile: true
 Conference Paper
 ======
 
+- **Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture.** <br/>
+**Enge Song**, Yang Song, Chengyun Lu, Tian Pan, Shaokai Zhang, Jianyuan Lu, Jiangu Zhao, Xining Wang, Xiaomin Wu, Minglan Gao, Zongquan Li, Ziyang Fang, Biao Lyu, Pengyu Zhang, Rong Wen, Li Yi, Zhigang Zong, Shunmin Zhu.<br/>
+**SIGCOMM'24**
+
 - **vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers.** <br/>
 Xin Yin, **Enge Song**, Ye Yang, Yi Wang, Bowen Yang, Jianyuan Lu, Xing Li, Biao Lyu, Rong Wen, Shibo He, Yuanchao Shu, Shunmin Zhu.<br/>
 **APNET'24**
