@@ -20,6 +20,10 @@ Publications
 Selected Papers
 ------
 
+- **Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture.** <br/>
+**Enge Song**, Yang Song, Chengyun Lu, Tian Pan, Shaokai Zhang, Jianyuan Lu, Jiangu Zhao, Xining Wang, Xiaomin Wu, Minglan Gao, Zongquan Li, Ziyang Fang, Biao Lyu, Pengyu Zhang, Rong Wen, Li Yi, Zhigang Zong, Shunmin Zhu.<br/>
+**SIGCOMM'24** (to appear)
+
 - [Poseidon: A Consolidated Virtual Network Controller that Manages Millions of Tenants via Config Tree](/files/Poseidon_NSDI24.pdf) <br/>
 Biao Lyu, **Enge Song**, Tian Pan, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Lei Gao, Chenxiao Wang, Han Xiao, Yong Pan, Xiuheng Chen, Yandong Duan, Weisheng Wang, Jinpeng Long, Yanfeng Wang, Kunpeng Zhou, Zhigang Zong, Xing Li, Guangwang Li, Pengyu Zhang, Peng Cheng, Jiming Chen, Shunmin Zhu.<br/>
 **NSDI'24** 
