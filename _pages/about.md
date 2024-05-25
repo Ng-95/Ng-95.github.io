@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 is now employed by Alibaba Cloud, as a researcher on cloud network.
-He received the Ph.D. degree from the Department of Information and Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China, in 2022 (advised by Tian Pan). 
+He received the Ph.D. degree from the Department of Information and Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China, in 2022 (advised by Tao Huang and Tian Pan). 
 
 Research Interests
 ======
