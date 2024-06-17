@@ -91,7 +91,7 @@ Journal Article
 
 - **INT-label: Lightweight In-band Network-Wide Telemetry via Distributed Labeling.** <br/>
 **Enge Song**, Tian Pan, Haoyu Song, Qiang Fu, Yingjiang Liu, Chenhao Jia, Chuanying Yuan, Minglan Gao, Jiao Zhang, Tao Huang, Yunjie Liu. <br/>
-**TPDS. 35(5): 751-767 (2024)**
+**TPDS. 35(5): 751-767 (2024)** ([paper](/files/INT_label_TPDS.pdf))
 
 - **CloudSentry: Two-Stage Heavy Hitter Detection for Cloud-Scale Gateway Overload Protection.** <br/>
 Jianyuan Lu, Tian Pan, Shan He, Mao Miao, Guangzhe Zhou, Yining Qi, Shize Zhang, **Enge Song**, Xiaoqing Sun, Huaiyi Zhao,Biao Lyu, Shunmin Zhu. <br/>
