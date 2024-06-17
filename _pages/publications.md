@@ -16,14 +16,6 @@ Conference Paper
 **Enge Song**, Yang Song, Chengyun Lu, Tian Pan, Shaokai Zhang, Jianyuan Lu, Jiangu Zhao, Xining Wang, Xiaomin Wu, Minglan Gao, Zongquan Li, Ziyang Fang, Biao Lyu, Pengyu Zhang, Rong Wen, Li Yi, Zhigang Zong, Shunmin Zhu.<br/>
 **SIGCOMM'24**
 
-- **vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers.** <br/>
-Xin Yin, **Enge Song**, Ye Yang, Yi Wang, Bowen Yang, Jianyuan Lu, Xing Li, Biao Lyu, Rong Wen, Shibo He, Yuanchao Shu, Shunmin Zhu.<br/>
-**APNET'24**
-
-- **QuarkTable: Building Compact Forwarding Tables for Programmable Switches on Public Clouds.** <br/>
-Jianyuan Lu, Huaiyi Zhao, Yu Qi, Yehao Feng, Xinyu Guo, Shengru Li, **Enge Song**, Xionglie Wei, Biao Lyu, Rong Wen, Shunmin Zhu.<br/>
-**APNET'24**
-
 - **Poseidon: A Consolidated Virtual Network Controller that Manages Millions of Tenants via Config Tree.** <br/>
 Biao Lyu, **Enge Song**, Tian Pan, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Lei Gao, Chenxiao Wang, Han Xiao, Yong Pan, Xiuheng Chen, Yandong Duan, Weisheng Wang, Jinpeng Long, Yanfeng Wang, Kunpeng Zhou, Zhigang Zong, Xing Li, Guangwang Li, Pengyu Zhang, Peng Cheng, Jiming Chen, Shunmin Zhu.<br/>
 **NSDI'24** ([paper](/files/Poseidon_NSDI24.pdf)) 
@@ -35,6 +27,18 @@ Tian Pan, Kun Liu, Xionglie Wei, Yisong Qiao, Jun Hu, Zhiguo Li, Jun Liang, Ties
 - **CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks.** <br/>
 Xin He, Enhuan Dong, Jiahai Yang, Shize Zhang, Zhiliang Wang, Zejie Wang, Ye Yang, Jun Zhou, Xiaoqing Sun, **Enge Song**, Jianyuan Lu, Biao Lyu, Shunmin Zhu.<br/>
 **INFOCOM'24**
+
+- **vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers.** <br/>
+Xin Yin, **Enge Song**, Ye Yang, Yi Wang, Bowen Yang, Jianyuan Lu, Xing Li, Biao Lyu, Rong Wen, Shibo He, Yuanchao Shu, Shunmin Zhu.<br/>
+**APNET'24**
+
+- **QuarkTable: Building Compact Forwarding Tables for Programmable Switches on Public Clouds.** <br/>
+Jianyuan Lu, Huaiyi Zhao, Yu Qi, Yehao Feng, Xinyu Guo, Shengru Li, **Enge Song**, Xionglie Wei, Biao Lyu, Rong Wen, Shunmin Zhu.<br/>
+**APNET'24**
+
+- **A Hybrid Testing System on P4 Cloud Gateway.** <br/>
+Xin Yang, **Enge Song**, Fuliang Li, Wanli Cao, Tian Pan, Yang Song, Ye Yang, Yongwang Wu, Jianyuan Lu, Bowen Yang, Xing Li, Biao Lyu, Rong Wen, Xingwei Wang, Shunmin Zhu.<br/>
+**SIGCOMM'24@FMANO workshop**
 
 - **INT-Balance: In-Band Network-Wide Telemetry with Balanced Monitoring Path Planning.** <br/>
 Yan Zhang, Tian Pan, Yan Zheng, **Enge Song**, Jiang Liu, Tao Huang, Yunjie Liu. <br/>
