@@ -113,12 +113,13 @@ Cloud Network
 1. Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture.
 2. Poseidon: A Consolidated Virtual Network Controller that Manages Millions of Tenants via Config Tree.
 3. LuoShen: A Hyper-Converged Programmable Gateway for Multi-Tenant Multi-Service Edge Clouds.
-4. CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks.
-5. MIMIC: SmartNIC-aided Flow Backpressure for CPU Overloading Protection in Multi-Tenant Clouds.
+4. MIMIC: SmartNIC-aided Flow Backpressure for CPU Overloading Protection in Multi-Tenant Clouds.
+5. CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks.
 6. Sailfish: accelerating cloud-scale multi-tenant multi-service gateways with programmable switches.
 7. CloudSentry: Two-Stage Heavy Hitter Detection for Cloud-Scale Gateway Overload Protection.
 8. vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers.
 9. QuarkTable: Building Compact Forwarding Tables for Programmable Switches on Public Clouds.
+10. A Hybrid Testing System on P4 Cloud Gateway.
 
 In-band Network Telemetry
 ------
