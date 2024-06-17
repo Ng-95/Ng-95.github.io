@@ -32,7 +32,7 @@ Biao Lyu, **Enge Song**, Tian Pan, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Lei G
 Tian Pan, Kun Liu, Xionglie Wei, Yisong Qiao, Jun Hu, Zhiguo Li, Jun Liang, Tiesheng Cheng, Wenqiang Su, Jie Lu, Yuke Hong, Zhengzhong Wang, Zhi Xu, Chongjing Dai, Peiqiao Wang, Xuetao Jia, Jianyuan Lu, **Enge Song**, Jun Zeng, Biao Lyu, Ennan Zhai, Jiao Zhang, Tao Huang, Dennis Cai, Shunmin Zhu.<br/>
 **NSDI'24**
 
-- **INT-label: Lightweight In-band Network-Wide Telemetry via Distributed Labeling.** <br/>
+- [INT-label: Lightweight In-band Network-Wide Telemetry via Distributed Labeling](/files/INT_label_TPDS.pdf) <br/>
 **Enge Song**, Tian Pan, Haoyu Song, Qiang Fu, Yingjiang Liu, Chenhao Jia, Chuanying Yuan, Minglan Gao, Jiao Zhang, Tao Huang, Yunjie Liu. <br/>
 **TPDS. 35(5): 751-767 (2024)**
 
