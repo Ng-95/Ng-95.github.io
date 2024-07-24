@@ -20,7 +20,7 @@ Publications
 Selected Papers
 ------
 
-- [Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture](files/Canal_SIGCOMM24.pdf) <br/>
+- [Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture](/files/Canal_SIGCOMM24.pdf) <br/>
 **Enge Song**, Yang Song, Chengyun Lu, Tian Pan, Shaokai Zhang, Jianyuan Lu, Jiangu Zhao, Xining Wang, Xiaomin Wu, Minglan Gao, Zongquan Li, Ziyang Fang, Biao Lyu, Pengyu Zhang, Rong Wen, Li Yi, Zhigang Zong, Shunmin Zhu.<br/>
 **SIGCOMM'24** (to appear)
 
