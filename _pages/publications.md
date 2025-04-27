@@ -12,6 +12,22 @@ author_profile: true
 Conference Paper
 ======
 
+- **Nezha: SmartNIC-based Virtual Switch Load Sharing.** <br/>
+Xing Li, **Enge Song**, Bowen Yang, Tian Pan, Ye Yang, Qiang Fu, Yang Song, Yilong Lv, Zikang Chen, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Rong Wen, Xionglie Wei, Biao Lyu, Zhigang Zong, Qinming He, Shunmin Zhu.<br/>
+**SIGCOMM'25** (to appear)
+
+- **Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification.** <br/>
+Tian Pan, **Enge Song**, Yueshang Zuo, Shaokai Zhang, Yang Song, Jiangu Zhao, Wengang Hou, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Ye Yang, Jiao Zhang, Tao Huang, Biao Lyu, Xing Li, Rong Wen, Zhigang Zong, Shunmin Zhu.<br/>
+**SIGCOMM'25** (to appear)
+
+- **Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks.** <br/>
+Zihao Fan, **Enge Song**, Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, Ye Yang, Shize Zhang, Xiaoqing Sun, Jianyuan Lu, Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, Shunmin Zhu.<br/>
+**APNET'25** (to appear)
+
+- **Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization.** <br/>
+Haonan Li, Yang Song, Tian Pan, Zhigang Zong, Bengbeng Xue, Xionglie Wei, Yisong Qiao, Donglin Lai, Baohai Hu, Jin Ke, **Enge Song**, Yuxiang Lin, Xiaomin Wu, Jianyuan Lu, Xing Li, Biao Lyu, Rong Wen, Jiao Zhang, Tao Huang, Shunmin Zhu.<br/>
+**APNET'25** (to appear)
+
 - **Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture.** <br/>
 **Enge Song**, Yang Song, Chengyun Lu, Tian Pan, Shaokai Zhang, Jianyuan Lu, Jiangu Zhao, Xining Wang, Xiaomin Wu, Minglan Gao, Zongquan Li, Ziyang Fang, Biao Lyu, Pengyu Zhang, Rong Wen, Li Yi, Zhigang Zong, Shunmin Zhu.<br/>
 **SIGCOMM'24** ([paper](/files/Canal_SIGCOMM24.pdf)) 
@@ -108,18 +124,28 @@ Tian Pan, Xingchen Lin, **Enge Song**, Cheng Xu, Jiao Zhang, Hao Li, Jianhui Lv,
 Paper In Topics
 ======
 
-Cloud Network
+Integration/Access of Cloud Services
 ------
 1. Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture.
-2. Poseidon: A Consolidated Virtual Network Controller that Manages Millions of Tenants via Config Tree.
+2. Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification.
 3. LuoShen: A Hyper-Converged Programmable Gateway for Multi-Tenant Multi-Service Edge Clouds.
-4. MIMIC: SmartNIC-aided Flow Backpressure for CPU Overloading Protection in Multi-Tenant Clouds.
-5. CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks.
-6. Sailfish: accelerating cloud-scale multi-tenant multi-service gateways with programmable switches.
-7. CloudSentry: Two-Stage Heavy Hitter Detection for Cloud-Scale Gateway Overload Protection.
-8. vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers.
-9. QuarkTable: Building Compact Forwarding Tables for Programmable Switches on Public Clouds.
-10. A Hybrid Testing System on P4 Cloud Gateway.
+4. Sailfish: Accelerating Cloud-scale Multi-tenant Multi-service Gateways with Programmable Switches.
+
+Cloud Network Stability Enhancement
+------
+1. MIMIC: SmartNIC-aided Flow Backpressure for CPU Overloading Protection in Multi-Tenant Clouds.
+2. CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks.
+3. CloudSentry: Two-Stage Heavy Hitter Detection for Cloud-Scale Gateway Overload Protection.
+4. vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers.
+5. A Hybrid Testing System on P4 Cloud Gateway.
+
+Architecture of Cloud Network Virtualization
+------
+1. Nezha: SmartNIC-based Virtual Switch Load Sharing.
+2. Poseidon: A Consolidated Virtual Network Controller that Manages Millions of Tenants via Config Tree.
+3. Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks.
+4. Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization.
+5. QuarkTable: Building Compact Forwarding Tables for Programmable Switches on Public Clouds.
 
 In-band Network Telemetry
 ------
