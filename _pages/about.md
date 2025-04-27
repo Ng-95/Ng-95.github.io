@@ -20,6 +20,14 @@ Publications
 Selected Papers
 ------
 
+- **Nezha: SmartNIC-based Virtual Switch Load Sharing.** <br/>
+Xing Li, **Enge Song**, Bowen Yang, Tian Pan, Ye Yang, Qiang Fu, Yang Song, Yilong Lv, Zikang Chen, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Rong Wen, Xionglie Wei, Biao Lyu, Zhigang Zong, Qinming He, Shunmin Zhu.<br/>
+**SIGCOMM'25 (to appear)**
+
+- **Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification.** <br/>
+Tian Pan, **Enge Song**, Yueshang Zuo, Shaokai Zhang, Yang Song, Jiangu Zhao, Wengang Hou, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Ye Yang, Jiao Zhang, Tao Huang, Biao Lyu, Xing Li, Rong Wen, Zhigang Zong, Shunmin Zhu.<br/>
+**SIGCOMM'25 (to appear)**
+
 - [Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture](/files/Canal_SIGCOMM24.pdf) <br/>
 **Enge Song**, Yang Song, Chengyun Lu, Tian Pan, Shaokai Zhang, Jianyuan Lu, Jiangu Zhao, Xining Wang, Xiaomin Wu, Minglan Gao, Zongquan Li, Ziyang Fang, Biao Lyu, Pengyu Zhang, Rong Wen, Li Yi, Zhigang Zong, Shunmin Zhu.<br/>
 **SIGCOMM'24** 
