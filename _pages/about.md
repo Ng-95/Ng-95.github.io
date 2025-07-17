@@ -28,6 +28,10 @@ Xing Li, **Enge Song**, Bowen Yang, Tian Pan, Ye Yang, Qiang Fu, Yang Song, Yilo
 Tian Pan, **Enge Song**, Yueshang Zuo, Shaokai Zhang, Yang Song, Jiangu Zhao, Wengang Hou, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Ye Yang, Jiao Zhang, Tao Huang, Biao Lyu, Xing Li, Rong Wen, Zhigang Zong, Shunmin Zhu.<br/>
 **SIGCOMM'25 (to appear)**
 
+- **Albatross: A Containerized Cloud Gateway Platform with FPGA-accelerated Packet-level Load Balancing.** <br/>
+Jianyuan Lu, Shunmin Zhu, Jun Liang, Yuxiang Lin, Tian Pan, Yisong Qiao, Yang Song, Wenqiang Su, Yixin Xie, Yanqiang Li, **Enge Song**, Shize Zhang, Xiaoqing Sun, Rong Wen, Xionglie Wei, Biao Lyu and Xing Li.<br/>
+**SIGCOMM'25 (to appear)** 
+
 - [Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture](/files/Canal_SIGCOMM24.pdf) <br/>
 **Enge Song**, Yang Song, Chengyun Lu, Tian Pan, Shaokai Zhang, Jianyuan Lu, Jiangu Zhao, Xining Wang, Xiaomin Wu, Minglan Gao, Zongquan Li, Ziyang Fang, Biao Lyu, Pengyu Zhang, Rong Wen, Li Yi, Zhigang Zong, Shunmin Zhu.<br/>
 **SIGCOMM'24** 
