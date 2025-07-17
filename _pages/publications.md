@@ -20,6 +20,10 @@ Xing Li, **Enge Song**, Bowen Yang, Tian Pan, Ye Yang, Qiang Fu, Yang Song, Yilo
 Tian Pan, **Enge Song**, Yueshang Zuo, Shaokai Zhang, Yang Song, Jiangu Zhao, Wengang Hou, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Ye Yang, Jiao Zhang, Tao Huang, Biao Lyu, Xing Li, Rong Wen, Zhigang Zong, Shunmin Zhu.<br/>
 **SIGCOMM'25** (to appear)
 
+- **Albatross: A Containerized Cloud Gateway Platform with FPGA-accelerated Packet-level Load Balancing.** <br/>
+Jianyuan Lu, Shunmin Zhu, Jun Liang, Yuxiang Lin, Tian Pan, Yisong Qiao, Yang Song, Wenqiang Su, Yixin Xie, Yanqiang Li, **Enge Song**, Shize Zhang, Xiaoqing Sun, Rong Wen, Xionglie Wei, Biao Lyu and Xing Li.<br/>
+**SIGCOMM'25** (to appear)
+
 - **Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks.** <br/>
 Zihao Fan, **Enge Song**, Bo Jiang, Yang Song, Yuke Hong, Bowen Yang, Yilong Lv, Junnan Cai, Chao Wang, Yi Wang, Yehao Feng, Dian Fan, Ye Yang, Shize Zhang, Xiaoqing Sun, Jianyuan Lu, Xing Li, Jun Liang, Biao Lyu, Zhigang Zong, Shunmin Zhu.<br/>
 **APNET'25** (to appear)
