@@ -20,7 +20,7 @@ Publications
 Selected Papers
 ------
 
-- **Nezha: SmartNIC-based Virtual Switch Load Sharing.** <br/>
+- [Nezha: SmartNIC-based Virtual Switch Load Sharing](https://ng-95.github.io/)** <br/>
 Xing Li, **Enge Song**, Bowen Yang, Tian Pan, Ye Yang, Qiang Fu, Yang Song, Yilong Lv, Zikang Chen, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Rong Wen, Xionglie Wei, Biao Lyu, Zhigang Zong, Qinming He, Shunmin Zhu.<br/>
 **SIGCOMM'25 (to appear)**
 
@@ -30,7 +30,11 @@ Tian Pan, **Enge Song**, Yueshang Zuo, Shaokai Zhang, Yang Song, Jiangu Zhao, We
 
 - **Albatross: A Containerized Cloud Gateway Platform with FPGA-accelerated Packet-level Load Balancing.** <br/>
 Jianyuan Lu, Shunmin Zhu, Jun Liang, Yuxiang Lin, Tian Pan, Yisong Qiao, Yang Song, Wenqiang Su, Yixin Xie, Yanqiang Li, **Enge Song**, Shize Zhang, Xiaoqing Sun, Rong Wen, Xionglie Wei, Biao Lyu and Xing Li.<br/>
-**SIGCOMM'25 (to appear)** 
+**SIGCOMM'25 (to appear)**
+
+- **ZooRoute: Enhancing Cloud-Scale Network Reliability via Overlay Proactive Rerouting.** <br/>
+Xiaoqing Sun, Xionglie Wei, Xing Li, Ju Zhang, Bowen Yang, Yi Wang, Ye Yang, Yu Qi, Le Yu, Chenhao Jia, Zhanlong Zhang, Xinyu Chen, Jianyuan Lu, Shize Zhang, **Enge Song**, Yang Song, Tian Pan, Rong Wen, Biao Lyu, Yang Xu, Shunmin Zhu.<br/>
+**SIGCOMM'25 short (to appear)** 
 
 - [Canal Mesh: A Cloud-Scale Sidecar-Free Multi-Tenant Service Mesh Architecture](/files/Canal_SIGCOMM24.pdf) <br/>
 **Enge Song**, Yang Song, Chengyun Lu, Tian Pan, Shaokai Zhang, Jianyuan Lu, Jiangu Zhao, Xining Wang, Xiaomin Wu, Minglan Gao, Zongquan Li, Ziyang Fang, Biao Lyu, Pengyu Zhang, Rong Wen, Li Yi, Zhigang Zong, Shunmin Zhu.<br/>
