@@ -20,15 +20,15 @@ Publications
 Selected Papers
 ------
 
-- [Nezha: SmartNIC-based Virtual Switch Load Sharing](https://ng-95.github.io/) <br/>
+- [Nezha: SmartNIC-based Virtual Switch Load Sharing](/files/Nezha_SIGCOMM25.pdf) <br/>
 Xing Li, **Enge Song**, Bowen Yang, Tian Pan, Ye Yang, Qiang Fu, Yang Song, Yilong Lv, Zikang Chen, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Rong Wen, Xionglie Wei, Biao Lyu, Zhigang Zong, Qinming He, Shunmin Zhu.<br/>
 **SIGCOMM'25**
 
-- [Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification](https://ng-95.github.io/) <br/>
+- [Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification](/files/Hermes_SIGCOMM25.pdf) <br/>
 Tian Pan, **Enge Song**, Yueshang Zuo, Shaokai Zhang, Yang Song, Jiangu Zhao, Wengang Hou, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Ye Yang, Jiao Zhang, Tao Huang, Biao Lyu, Xing Li, Rong Wen, Zhigang Zong, Shunmin Zhu.<br/>
 **SIGCOMM'25**
 
-- [Albatross: A Containerized Cloud Gateway Platform with FPGA-accelerated Packet-level Load Balancing](https://ng-95.github.io/) <br/>
+- [Albatross: A Containerized Cloud Gateway Platform with FPGA-accelerated Packet-level Load Balancing](/files/Albatross_SIGCOMM25.pdf) <br/>
 Jianyuan Lu, Shunmin Zhu, Jun Liang, Yuxiang Lin, Tian Pan, Yisong Qiao, Yang Song, Wenqiang Su, Yixin Xie, Yanqiang Li, **Enge Song**, Shize Zhang, Xiaoqing Sun, Rong Wen, Xionglie Wei, Biao Lyu and Xing Li.<br/>
 **SIGCOMM'25**
 
