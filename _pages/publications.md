@@ -12,6 +12,23 @@ author_profile: true
 Conference Paper
 ======
 
+
+- **CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization.** <br/>
+Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, **Enge Song**, Zhi Xu, Ye Yang, Bowen Yang, Donglin Lai, Yisong Qiao, Bengbeng Xue, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Zihao Fan, Mingxin Li, Yang Song, Jun Liang, Xionglie Wei, Biao Lyu, Rong Wen, Zhigang Zong, Jiao Zhang, Tao Huang, Shunmin Zhu.<br/>
+**NSDI'26 (to appear)**
+
+- **Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport.** <br/>
+Zihao Fan, Xing Li, Ye Yang, Bo Jiang, Bowen Yang, Yilong Lv, Yuke Hong, Yinian Zhou, Junnan Cai, Jiayue Xu, Yunrui Hu, Zhao Gao, Ke Sun, Yimin Liu, Xiangdong Zhang, **Enge Song**, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Haonan Li, Mingxin Li, Changgang Zheng, Yang Song, Jun Liang, Biao Lyu, Rong Wen, Zhigang Zong, Shunmin Zhu.<br/>
+**NSDI'26 (to appear)**
+
+- **ZooRoute: Enhancing Cloud-Scale Network Reliability via Candidate Path Provisioning and Overlay Proactive Rerouting.** <br/>
+Xiaoqing Sun, Xing Li, Xionglie Wei, Tian Pan, Ju Zhang, Bowen Yang, Yi Wang, Ye Yang, Yu Qi, Le Yu, Chenhao Jia, Zhanlong Zhang, Xinyu Chen, Xiaobo Xue, Jianyuan Lu, Shize Zhang, **Enge Song**, Yang Song, Rong Wen, Biao Lyu, Yang Xu, Shunmin Zhu.<br/>
+**NSDI'26 (to appear)**
+
+- **Enabling Black-box RPC-API Testing with Multi-Agent Reinforcement Learning and LLMs: An Industry Case Study.** <br/>
+Xiaoqing Sun, Zhou Shao, Xiaonan Shi, Chao Ma, Xiaobo Xue, Jianyuan Lu, Shize Zhang, **Enge Song**, Yang Song, Xing Li, Chongrong Fang, Chunrong Fang, Biao Lyu, Shunmin Zhu.<br/>
+**ICSE'26 SEIP (to appear)**
+
 - **Nezha: SmartNIC-based Virtual Switch Load Sharing.** <br/>
 Xing Li, **Enge Song**, Bowen Yang, Tian Pan, Ye Yang, Qiang Fu, Yang Song, Yilong Lv, Zikang Chen, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Rong Wen, Xionglie Wei, Biao Lyu, Zhigang Zong, Qinming He, Shunmin Zhu.<br/>
 **SIGCOMM'25** ([paper](/files/Nezha_SIGCOMM25.pdf)) 
@@ -138,6 +155,7 @@ Integration/Access of Cloud Services
 2. Hermes: Enhancing Layer-7 Cloud Load Balancers with Userspace-Directed I/O Event Notification.
 3. LuoShen: A Hyper-Converged Programmable Gateway for Multi-Tenant Multi-Service Edge Clouds.
 4. Sailfish: Accelerating Cloud-scale Multi-tenant Multi-service Gateways with Programmable Switches.
+5. CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization.
 
 Cloud Network Stability Enhancement
 ------
@@ -146,6 +164,8 @@ Cloud Network Stability Enhancement
 3. CloudSentry: Two-Stage Heavy Hitter Detection for Cloud-Scale Gateway Overload Protection.
 4. vSwitchLB: Stratified Load Balancing for vSwitch Efficiency in Data Centers.
 5. A Hybrid Testing System on P4 Cloud Gateway.
+6. ZooRoute: Enhancing Cloud-Scale Network Reliability via Candidate Path Provisioning and Overlay Proactive Rerouting.
+7. Enabling Black-box RPC-API Testing with Multi-Agent Reinforcement Learning and LLMs: An Industry Case Study.
 
 Architecture of Cloud Network Virtualization
 ------
@@ -154,6 +174,7 @@ Architecture of Cloud Network Virtualization
 3. Understanding the Long Tail Latency of TCP in Large-Scale Cloud Networks.
 4. Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization.
 5. QuarkTable: Building Compact Forwarding Tables for Programmable Switches on Public Clouds.
+6. Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport.
 
 In-band Network Telemetry
 ------
