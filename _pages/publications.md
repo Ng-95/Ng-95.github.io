@@ -12,22 +12,41 @@ author_profile: true
 Conference Paper
 ======
 
+- **A Decade Behind the Scenes: Evolving Layer-4 Load Balancers in Alibaba Cloud.** <br/>
+Chengyuan Huang, Rong Wen, Shuai Jin, Qingzheng Hou, Yahua Li, Kaiken Li, Shize Zhang, **Enge Song**, Bengbeng Xue, Donglin Lai, Jin Ke, Xiaoqing Sun, Jianyuan Lu, Song Yang, Xing Li, Zhigang Zong, Biao Lyu, Xiaoliang Wang, Dehui Wei, Qingkai Meng, Peirui Cao, Keqiang He, Chen Tian, Guihai Chen.<br/>
+**NSDI'27 (to appear)**
+
+- **A Tree-based Cloud Network Controller at Scale.** <br/>
+Biao Lyu, **Enge Song**, Tian Pan, Qiang Fu, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Lei Gao, Chenxiao Wang, Mi Peng, Chao Ma, Han Xiao, Yong Pan, Xiuheng Chen, Yandong Duan, Weisheng Wang, Jinpeng Long, Yanfeng Wang, Kunpeng Zhou, Pengyu Zhang, Yang Song, Zhigang Zong, Xing Li, Rong Wen, Guangwang Li, Peng Cheng, Jiming Chen, Shunmin Zhu.<br/>
+**TON (to appear)**
+
+- **Integrating AI Clusters into Virtual Private Cloud.** <br/>
+Yinhe Wang, Xing Li, **Enge Song**, Zihao Fan, Changgang Zheng, Haonan Li, Shengyao Gao, Juncheng Xiang, Ye Yang, Junnan Cai, Chang Liu, Haoxiang Pan, Yang Song, Yilong Lv, Qiang Fu, Zhigang Zong, Heng Pan, Shunmin Zhu.<br/>
+**APNET'26**
+
+- **Zephyr: A Zero-loss and Tranparent TLS Connection Migration Framework.** <br/>
+Jiazhen Xu, Chengcheng Yu, Yueshang Zuo, **Enge Song**, Shaokai Zhang, Jiangu Zhao, Tian Pan, Yang Song, Xing Li, Rong Wen, Chengkun Wei, Shunmin Zhu, Wenzhi Chen.<br/>
+**APNET'26**
+
+- **Single-Core Hotspots on Your VNF? Break Them Up.** <br/>
+Changgang Zheng, Bowen Yang, Jin Ke, Ye Yang, **Enge Song**, Haonan Li, Zihao Fan, Mingxin Li, Yilong Lv, Yisong Qiao, Jun Liang, Donglin Lai, Bengbeng Xue, Yang Song, Xing Li, Rong Wen, Zhigang Zong, Shunmin Zhu.<br/>
+**APNET'26**
 
 - **CStar Gateway: Augmenting Public Cloud Infrastructure for Heterogeneous Network Function Virtualization.** <br/>
 Haonan Li, Tian Pan, Jin Ke, Baohai Hu, Changgang Zheng, **Enge Song**, Zhi Xu, Ye Yang, Bowen Yang, Donglin Lai, Yisong Qiao, Bengbeng Xue, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Zihao Fan, Mingxin Li, Yang Song, Jun Liang, Xionglie Wei, Biao Lyu, Rong Wen, Zhigang Zong, Jiao Zhang, Tao Huang, Shunmin Zhu.<br/>
-**NSDI'26 (to appear)**
+**NSDI'26**
 
 - **Bifrost: Alibaba's Next-Generation VPC Network with High-Performance Multipath Reliable Transport.** <br/>
 Zihao Fan, Xing Li, Ye Yang, Bo Jiang, Bowen Yang, Yilong Lv, Yuke Hong, Yinian Zhou, Junnan Cai, Jiayue Xu, Yunrui Hu, Zhao Gao, Ke Sun, Yimin Liu, Xiangdong Zhang, **Enge Song**, Jianyuan Lu, Xiaoqing Sun, Shize Zhang, Haonan Li, Mingxin Li, Changgang Zheng, Yang Song, Jun Liang, Biao Lyu, Rong Wen, Zhigang Zong, Shunmin Zhu.<br/>
-**NSDI'26 (to appear)**
+**NSDI'26**
 
 - **ZooRoute: Enhancing Cloud-Scale Network Reliability via Candidate Path Provisioning and Overlay Proactive Rerouting.** <br/>
 Xiaoqing Sun, Xing Li, Xionglie Wei, Tian Pan, Ju Zhang, Bowen Yang, Yi Wang, Ye Yang, Yu Qi, Le Yu, Chenhao Jia, Zhanlong Zhang, Xinyu Chen, Xiaobo Xue, Jianyuan Lu, Shize Zhang, **Enge Song**, Yang Song, Rong Wen, Biao Lyu, Yang Xu, Shunmin Zhu.<br/>
-**NSDI'26 (to appear)**
+**NSDI'26**
 
 - **Enabling Black-box RPC-API Testing with Multi-Agent Reinforcement Learning and LLMs: An Industry Case Study.** <br/>
 Xiaoqing Sun, Zhou Shao, Xiaonan Shi, Chao Ma, Xiaobo Xue, Jianyuan Lu, Shize Zhang, **Enge Song**, Yang Song, Xing Li, Chongrong Fang, Chunrong Fang, Biao Lyu, Shunmin Zhu.<br/>
-**ICSE'26 SEIP (to appear)**
+**ICSE'26 SEIP**
 
 - **Nezha: SmartNIC-based Virtual Switch Load Sharing.** <br/>
 Xing Li, **Enge Song**, Bowen Yang, Tian Pan, Ye Yang, Qiang Fu, Yang Song, Yilong Lv, Zikang Chen, Jianyuan Lu, Shize Zhang, Xiaoqing Sun, Rong Wen, Xionglie Wei, Biao Lyu, Zhigang Zong, Qinming He, Shunmin Zhu.<br/>
